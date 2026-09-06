@@ -3,13 +3,14 @@ import { mkdtempSync, readFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import Parser from "rss-parser";
-import { collectItems, updateFeeds, writeItems } from "../src/feeds";
+import { collectItems, syncFeeds, updateFeeds, writeItems } from "../src/feeds";
 import type { FeedFetcher } from "../src/feeds";
 
 const FIXTURES: Record<string, string> = {
   a: `<?xml version="1.0"?><rss version="2.0"><channel><title>A</title>
     <item><title>Bir başlık. İkinci cümle.</title>
       <link>https://a.example.com/1</link>
+      <guid>guid-a-1</guid>
       <description>Bir başlık. İkinci cümle. Üçüncü cümle.</description>
     </item>
   </channel></rss>`,
@@ -79,5 +80,41 @@ describe("feeds (fixture, ağa çıkmadan)", () => {
     expect(items).toHaveLength(2);
     const written = JSON.parse(readFileSync(path, "utf8"));
     expect(written).toEqual(items);
+  });
+});
+
+describe("syncFeeds (kimlik: guid varsa guid, yoksa link)", () => {
+  it("aynı kimlikteki (link) öğeyi tekrar eklemez, sadece yenileri ekler", async () => {
+    const dir = mkdtempSync(join(tmpdir(), "rss-ozet-"));
+    const path = join(dir, "items.json");
+    writeItems([{ title: "Var olan", link: "https://b.example.com/1", summary: "Zaten var." }], path);
+    const result = await syncFeeds(path, ["a", "b", "c"], fixtureFetcher);
+    expect(result.newCount).toBe(2);
+    expect(result.bySource).toEqual({ a: 1, c: 1 });
+    const written = JSON.parse(readFileSync(path, "utf8"));
+    expect(written).toHaveLength(3);
+  });
+
+  it("aynı guid farklı link ile geldiğinde öğeyi yeni saymaz (guid önceliklidir)", async () => {
+    const dir = mkdtempSync(join(tmpdir(), "rss-ozet-"));
+    const path = join(dir, "items.json");
+    writeItems(
+      [{ title: "Eski başlık", link: "https://old.example.com/moved", summary: "Eski özet.", guid: "guid-a-1" }],
+      path
+    );
+    const result = await syncFeeds(path, ["a"], fixtureFetcher);
+    expect(result.newCount).toBe(0);
+    expect(result.bySource).toEqual({});
+  });
+
+  it("hiç yeni öğe yoksa dosyaya dokunmaz", async () => {
+    const dir = mkdtempSync(join(tmpdir(), "rss-ozet-"));
+    const path = join(dir, "items.json");
+    const existing = await collectItems(["a", "b", "c"], fixtureFetcher);
+    writeItems(existing, path);
+    const before = readFileSync(path, "utf8");
+    const result = await syncFeeds(path, ["a", "b", "c"], fixtureFetcher);
+    expect(result.newCount).toBe(0);
+    expect(readFileSync(path, "utf8")).toBe(before);
   });
 });

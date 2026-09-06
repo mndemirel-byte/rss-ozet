@@ -2,7 +2,7 @@
 import express from "express";
 import { readFileSync } from "node:fs";
 
-export type Item = { title: string; link: string; summary: string };
+export type Item = { title: string; link: string; summary: string; guid?: string };
 
 const ESC: Record<string, string> = {
   "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",

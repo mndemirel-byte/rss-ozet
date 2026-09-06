@@ -3,5 +3,377 @@
     "title": "rss-ozet kuruldu",
     "link": "https://example.com/kurulum",
     "summary": "Bu tohum kayıt, doğrulama prosedürünün ilk koşusunu mümkün kılar."
+  },
+  {
+    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "link": "https://github.com/marsbos/mador",
+    "summary": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 11 # Comments: 3",
+    "guid": "https://news.ycombinator.com/item?id=49590738"
+  },
+  {
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 16 # Comments: 5",
+    "guid": "https://news.ycombinator.com/item?id=49590611"
+  },
+  {
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 15 # Comments: 2",
+    "guid": "https://news.ycombinator.com/item?id=49590512"
+  },
+  {
+    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "link": "https://getvodforge.com/",
+    "summary": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Converter sites are always an option but the bitrate wasn't optimal for a CTV network that needs to make multiple streaming version off of a single source file.",
+    "guid": "https://news.ycombinator.com/item?id=49590354"
+  },
+  {
+    "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+    "link": "https://github.com/mmeyerlein/meclaw",
+    "summary": "Article URL: https://github.com/mmeyerlein/meclaw Comments URL: https://news.ycombinator.com/item?id=49590351 Points: 4 # Comments: 2",
+    "guid": "https://news.ycombinator.com/item?id=49590351"
+  },
+  {
+    "title": "The car industry A/B tested selling a car with and without CarPlay",
+    "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+    "summary": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 65 # Comments: 53",
+    "guid": "https://news.ycombinator.com/item?id=49590225"
+  },
+  {
+    "title": "There Gonna Be a Shortage of Everything",
+    "link": "https://out-of-hell.xylon.me.uk/shortage.html",
+    "summary": "Article URL: https://out-of-hell.xylon.me.uk/shortage.html Comments URL: https://news.ycombinator.com/item?id=49590129 Points: 19 # Comments: 13",
+    "guid": "https://news.ycombinator.com/item?id=49590129"
+  },
+  {
+    "title": "Nitter and XCancel resume service after legal advice",
+    "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "summary": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 297 # Comments: 184",
+    "guid": "https://news.ycombinator.com/item?id=49588988"
+  },
+  {
+    "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+    "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+    "summary": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm Comments URL: https://news.ycombinator.com/item?id=49588466 Points: 0 # Comments: 0",
+    "guid": "https://news.ycombinator.com/item?id=49588466"
+  },
+  {
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind/",
+    "summary": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 245 # Comments: 185",
+    "guid": "https://news.ycombinator.com/item?id=49588080"
+  },
+  {
+    "title": "Research carried out using NetBSD",
+    "link": "https://www.netbsd.org/gallery/research.html",
+    "summary": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 61 # Comments: 14",
+    "guid": "https://news.ycombinator.com/item?id=49587903"
+  },
+  {
+    "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+    "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "summary": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 90 # Comments: 4",
+    "guid": "https://news.ycombinator.com/item?id=49587636"
+  },
+  {
+    "title": "Research acceleration: The view inside OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "summary": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 78 # Comments: 52",
+    "guid": "https://news.ycombinator.com/item?id=49587217"
+  },
+  {
+    "title": "A/I shuts down – Stay human",
+    "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "summary": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 423 # Comments: 289",
+    "guid": "https://news.ycombinator.com/item?id=49586898"
+  },
+  {
+    "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+    "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+    "summary": "https://asahilinux.org/2026/09/m2-episode-1/ Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 240 # Comments: 146",
+    "guid": "https://news.ycombinator.com/item?id=49586698"
+  },
+  {
+    "title": "The many mysteries and lessons of the Bayeux tapestry",
+    "link": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+    "summary": "Article URL: https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry Comments URL: https://news.ycombinator.com/item?id=49586435 Points: 55 # Comments: 10",
+    "guid": "https://news.ycombinator.com/item?id=49586435"
+  },
+  {
+    "title": "Your intellectual fly is open (2025)",
+    "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 409 # Comments: 272",
+    "guid": "https://news.ycombinator.com/item?id=49585644"
+  },
+  {
+    "title": "Doomscrolling Ourselves to Death",
+    "link": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+    "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 318 # Comments: 214",
+    "guid": "https://news.ycombinator.com/item?id=49585627"
+  },
+  {
+    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+    "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+    "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 504 # Comments: 157",
+    "guid": "https://news.ycombinator.com/item?id=49584083"
+  },
+  {
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "link": "https://cloudinabottle.org/blog/launch-post",
+    "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 592 # Comments: 292",
+    "guid": "https://news.ycombinator.com/item?id=49582000"
+  },
+  {
+    "title": "Sağlık teknolojileri geliştiren Ultrahuman, 70 milyon dolar yatırım aldı",
+    "link": "https://webrazzi.com/2026/09/04/saglik-teknolojileri-gelistiren-ultrahuman-70-milyon-dolar-yatirim-aldi/",
+    "summary": "Sağlık teknolojileri geliştiren Ultrahuman, 70 milyon dolar yatırım aldı. Şirketin 70 milyon dolarlık yatırım turuna Qualcomm Ventures liderlik etti.",
+    "guid": "https://webrazzi.com/2026/09/04/saglik-teknolojileri-gelistiren-ultrahuman-70-milyon-dolar-yatirim-aldi/"
+  },
+  {
+    "title": "Yapay Zeka Gündemi #61",
+    "link": "https://webrazzi.com/2026/09/04/yapay-zeka-gundemi-61/",
+    "summary": "Yapay zeka gündemi, yeni model ve ürün duyurularının yanı sıra güvenlik, telif ve regülasyon tartışmalarıyla hareketli bir haftayı geride bıraktı. OpenAI, Anthropic, Google ve Meta yeni modellerini ta...",
+    "guid": "https://webrazzi.com/2026/09/04/yapay-zeka-gundemi-61/"
+  },
+  {
+    "title": "Gimlet Labs, 3 milyar dolar değerleme üzerinden 300 milyon dolar yatırım aldı",
+    "link": "https://webrazzi.com/2026/09/04/gimlet-labs-3-milyar-dolar-degerleme-uzerinden-300-milyon-dolar-yatirim-aldi/",
+    "summary": "Yapay zeka uygulamalarının verimliliğine odaklanan Gimlet Labs'in 80 milyon dolar yatırım aldığını geçen mart ayında sizlere aktarmıştık. Şirket, yeni yatırım haberiyle gündeme geldi.Gimlet Labs, 300 ...",
+    "guid": "https://webrazzi.com/2026/09/04/gimlet-labs-3-milyar-dolar-degerleme-uzerinden-300-milyon-dolar-yatirim-aldi/"
+  },
+  {
+    "title": "Google, Gmail, Docs ve Keep uygulamaları için yapay zeka destekli sesli özellikleri duyurdu",
+    "link": "https://webrazzi.com/2026/09/04/google-gmail-docs-ve-keep-uygulamalari-icin-yapay-zeka-destekli-sesli-ozellikleri-duyurdu/",
+    "summary": "Google, mayıs ayında düzenlenen Google I/O 2026 konferansında ön gösterimini yaptığı sesli yapay zeka özelliklerini Docs, Gmail ve Keep uygulamaları için kullanıma sunuyor. Docs Live, Gmail Live ve Ke...",
+    "guid": "https://webrazzi.com/2026/09/04/google-gmail-docs-ve-keep-uygulamalari-icin-yapay-zeka-destekli-sesli-ozellikleri-duyurdu/"
+  },
+  {
+    "title": "TikTok yorumlara sesli mesaj, anket ve çoklu fotoğraf özellikleri getiriyor",
+    "link": "https://webrazzi.com/2026/09/04/tiktok-yorumlara-sesli-mesaj-anket-ve-coklu-fotograf-ozellikleri-getiriyor/",
+    "summary": "TikTok, kullanıcıların yorumlar üzerinden daha fazla etkileşim kurmasını sağlamak amacıyla yeni özelliklerini kullanıma sunuyor. Platform, sesli yorum, anket, fotoğraf karuseli ve Live Photo yorumları...",
+    "guid": "https://webrazzi.com/2026/09/04/tiktok-yorumlara-sesli-mesaj-anket-ve-coklu-fotograf-ozellikleri-getiriyor/"
+  },
+  {
+    "title": "Crusoe, 30 milyar dolar değerleme üzerinden 3 milyar dolar yatırım aldı",
+    "link": "https://webrazzi.com/2026/09/04/crusoe-30-milyar-dolar-degerleme-uzerinden-3-milyar-dolar-yatirim-aldi/",
+    "summary": "Yapay zeka odaklı veri merkezi girişimi Crusoe'nun 1.38 milyar dolar yatırım aldığını geçen yılın ekim ayında sizlere aktarmıştık. Şirket yaklaşık bir yıl sonra yeni yatırım haberiyle gündeme geldi.Cr...",
+    "guid": "https://webrazzi.com/2026/09/04/crusoe-30-milyar-dolar-degerleme-uzerinden-3-milyar-dolar-yatirim-aldi/"
+  },
+  {
+    "title": "Google'dan yapay zeka destekli hava tahmini modeli: WeatherNext 3",
+    "link": "https://webrazzi.com/2026/09/04/googledan-yapay-zeka-destekli-hava-tahmini-modeli-weathernext-3/",
+    "summary": "Google DeepMind ve Google Research, yapay zeka destekli yeni küresel hava tahmini modeli WeatherNext 3'yi tanıttı. Model, gerçek zamanlı uydu verileri, daha yüksek mekansal çözünürlük ve saatte bir ye...",
+    "guid": "https://webrazzi.com/2026/09/04/googledan-yapay-zeka-destekli-hava-tahmini-modeli-weathernext-3/"
+  },
+  {
+    "title": "Mayıs ayında gizli halka arz başvurusunda bulunan Oura, halka arz belgelerini kamuoyuyla paylaştı",
+    "link": "https://webrazzi.com/2026/09/04/mayis-ayinda-gizli-halka-arz-basvurusunda-bulunan-oura-halka-arz-belgelerini-kamuoyuyla-paylasti/",
+    "summary": "Akıllı yüzük üreticisi Oura, halka arz sürecini resmen başlattı. Şirket, hisselerini \"OURA\" koduyla Nasdaq Global Select Market'te işlem görmeye açmak üzere ABD Menkul Kıymetler ve Borsa Komisyonu'na ...",
+    "guid": "https://webrazzi.com/2026/09/04/mayis-ayinda-gizli-halka-arz-basvurusunda-bulunan-oura-halka-arz-belgelerini-kamuoyuyla-paylasti/"
+  },
+  {
+    "title": "OpenAI, siber güvenlikte &quot;kritik&quot; eşiği aşan GPT-6 Astra'yı kullanıma sundu",
+    "link": "https://webrazzi.com/2026/09/04/openai-siber-guvenlikte-kritik-esigi-asan-gpt-6-astra-yi-kullanima-sundu/",
+    "summary": "OpenAI, uzun süredir üzerinde çalıştığı ve geçtiğimiz günlerde güvenlik yetenekleriyle gündeme gelen yeni yapay zeka modeli GPT-6 Astra'yı kullanıma sundu. Şirketin bugüne kadarki en güçlü ve yetenekl...",
+    "guid": "https://webrazzi.com/2026/09/04/openai-siber-guvenlikte-kritik-esigi-asan-gpt-6-astra-yi-kullanima-sundu/"
+  },
+  {
+    "title": "Yapay zeka destekli siber güvenlik çözümleri geliştiren HiddenLayer, 100 milyon dolar yatırım aldı",
+    "link": "https://webrazzi.com/2026/09/03/yapay-zeka-destekli-siber-guvenlik-cozumleri-gelistiren-hiddenlayer-100-milyon-dolar-yatirim-aldi/",
+    "summary": "Yapay zeka destekli siber güvenlik çözümleri geliştiren HiddenLayer, 100 milyon dolar yatırım aldı. Şirketin 100 milyon dolar B serisi yatırım turuna Delta-v Capital liderlik etti.",
+    "guid": "https://webrazzi.com/2026/09/03/yapay-zeka-destekli-siber-guvenlik-cozumleri-gelistiren-hiddenlayer-100-milyon-dolar-yatirim-aldi/"
+  },
+  {
+    "title": "The Adecco Group araştırması: Yapay zeka 1,9 milyon yeni istihdam fırsatının oluşmasına katkı sağladı",
+    "link": "https://webrazzi.com/2026/09/03/the-adecco-group-arastirmasi-yapay-zeka-1-9-milyon-yeni-istihdam-firsatinin-olusmasina-katki-sagladi/",
+    "summary": "Yapay zekanın iş gücü üzerindeki etkisini son dönemde özellikle iş kayıpları üzerinde görmekteyiz. The Adecco Group tarafından yayımlanan “On the Threshold: AI, the Future of Work and the Rise of Hybr...",
+    "guid": "https://webrazzi.com/2026/09/03/the-adecco-group-arastirmasi-yapay-zeka-1-9-milyon-yeni-istihdam-firsatinin-olusmasina-katki-sagladi/"
+  },
+  {
+    "title": "Lyte, 1,6 milyar dolar değerleme üzerinden 165 milyon dolar yatırım aldı",
+    "link": "https://webrazzi.com/2026/09/03/lyte-1-6-milyar-dolar-degerleme-uzerinden-165-milyon-dolar-yatirim-aldi/",
+    "summary": "Robotların görmesini ve çevresini anlamasını sağlayan yapay zeka teknolojileri geliştiren Lyte, 165 milyon dolar yatırım aldı. Şirketin 165 milyon dolarlık C serisi yatırım turuna Maverick Silicon lid...",
+    "guid": "https://webrazzi.com/2026/09/03/lyte-1-6-milyar-dolar-degerleme-uzerinden-165-milyon-dolar-yatirim-aldi/"
+  },
+  {
+    "title": "Nvidia, Hugging Face satın alımını doğruladı",
+    "link": "https://webrazzi.com/2026/09/03/nvidia-hugging-face-satin-alimini-dogruladi/",
+    "summary": "Nvidia, yapay zeka ekosistemindeki en önemli satın almalardan birine imza atıyor. Geçen hafta Nvidia'nın Hugging Face'i 12,9 milyar dolara satın almak üzere anlaşmaya vardığının konuşulmakta olduğunu ...",
+    "guid": "https://webrazzi.com/2026/09/03/nvidia-hugging-face-satin-alimini-dogruladi/"
+  },
+  {
+    "title": "Delivery Hero yönetiminden Uber'in 14,8 milyar dolarlık satın alma teklifine destek",
+    "link": "https://webrazzi.com/2026/09/03/delivery-hero-yonetiminden-uber-in-14-8-milyar-dolarlik-satin-alma-teklifine-destek/",
+    "summary": "Uber'in Delivery Hero'yu satın alma teklifinin detayları ve sürecin yol haritasını sizlerle daha önce paylaşmıştık. Uber'in Delivery Hero'yu satın almak için yaptığı 14,8 milyar dolarlık teklif, öneml...",
+    "guid": "https://webrazzi.com/2026/09/03/delivery-hero-yonetiminden-uber-in-14-8-milyar-dolarlik-satin-alma-teklifine-destek/"
+  },
+  {
+    "title": "Meta'dan kodlama ve ajan yeteneklerine odaklanan yeni model: Muse Spark 1.3",
+    "link": "https://webrazzi.com/2026/09/03/meta-dan-kodlama-ve-ajan-yeteneklerine-odaklanan-yeni-model-muse-spark-1-3/",
+    "summary": "Muse Spark 1.2’nin kullanıma sunulmasından yaklaşık bir ay sonra Meta, yapay zeka model ailesinin yeni üyesi Muse Spark 1.3’ü tanıttı. Yeni model, özellikle kodlama, uzun süreli ajan görevleri ve karm...",
+    "guid": "https://webrazzi.com/2026/09/03/meta-dan-kodlama-ve-ajan-yeteneklerine-odaklanan-yeni-model-muse-spark-1-3/"
+  },
+  {
+    "title": "Adobe, 70'ten fazla tasarım aracını Slack'e entegre etti",
+    "link": "https://webrazzi.com/2026/09/03/adobe-70-ten-fazla-tasarim-aracini-slack-e-entegre-etti/",
+    "summary": "Adobe, kullanıcıların platformlar arası geçiş yapmadan projelerini yönetebilmesi için yaratıcı tasarım araçlarını iletişim uygulaması Slack içerisine entegre ettiğini duyurdu. Geliştirilen yeni sistem...",
+    "guid": "https://webrazzi.com/2026/09/03/adobe-70-ten-fazla-tasarim-aracini-slack-e-entegre-etti/"
+  },
+  {
+    "title": "Wonderful, 5 milyar dolar değerleme ile 550 milyon dolar yatırım aldı",
+    "link": "https://webrazzi.com/2026/09/03/wonderful-5-milyar-dolar-degerleme-ile-550-milyon-dolar-yatirim-aldi/",
+    "summary": "Yapay zeka şirketi Wonderful'un 2 milyar dolar değerlemeyle 150 milyon dolar yatırım aldığını geçen mart ayında sizlere aktarmıştık. Şirket, 6 ay sonra yeni yatırım turuyla gündeme geldi.",
+    "guid": "https://webrazzi.com/2026/09/03/wonderful-5-milyar-dolar-degerleme-ile-550-milyon-dolar-yatirim-aldi/"
+  },
+  {
+    "title": "OpenAI'ın Astra modelinde kullandığı yeni akıl yürütme tekniği güvenlik endişelerini artırdı",
+    "link": "https://webrazzi.com/2026/09/03/openai-in-astra-modelinde-kullandigi-yeni-akil-yurutme-teknigi-guvenlik-endiselerini-artirdi/",
+    "summary": "OpenAI'ın henüz kullanıma sunulmayan yeni yapay zeka modeli Astra, gelişmiş siber güvenlik yeteneklerinin yanı sıra kullandığı öne sürülen yeni akıl yürütme yöntemiyle de tartışma yaratıyor. Astra'nın...",
+    "guid": "https://webrazzi.com/2026/09/03/openai-in-astra-modelinde-kullandigi-yeni-akil-yurutme-teknigi-guvenlik-endiselerini-artirdi/"
+  },
+  {
+    "title": "Google'dan iki yeni yapay zeka modeli: Gemini 3.8 Flash ve Gemini 3.8 Flash Cyber",
+    "link": "https://webrazzi.com/2026/09/03/googledan-iki-yeni-yapay-zeka-modeli-gemini-38-flash-ve-gemini-38-flash-cyber/",
+    "summary": "Google, yeni yapay zeka modelleri Gemini 3.8 Flash ve Gemini 3.8 Flash Cyber'ı tanıttı. Aynı temel model üzerine inşa edilen iki seçenek, farklı kullanım alanlarına odaklanıyor.",
+    "guid": "https://webrazzi.com/2026/09/03/googledan-iki-yeni-yapay-zeka-modeli-gemini-38-flash-ve-gemini-38-flash-cyber/"
+  },
+  {
+    "title": "OpenAI, ChatGPT Health'i 325 milyondan fazla hasta verisini barındıran Epic ile entegre etti",
+    "link": "https://webrazzi.com/2026/09/02/openai-chatgpt-health-i-325-milyondan-fazla-hasta-verisini-barindiran-epic-ile-entegre-etti/",
+    "summary": "OpenAI, sağlık alanındaki yapay zeka çalışmalarını genişletmeye devam ediyor. Şirket, ChatGPT Health'i ABD'nin önde gelen elektronik sağlık kayıtları (EHR) sistemlerinden Epic ile entegre ettiğini duy...",
+    "guid": "https://webrazzi.com/2026/09/02/openai-chatgpt-health-i-325-milyondan-fazla-hasta-verisini-barindiran-epic-ile-entegre-etti/"
+  },
+  {
+    "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+    "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+    "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+    "guid": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/"
+  },
+  {
+    "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+    "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+    "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+    "guid": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/"
+  },
+  {
+    "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+    "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+    "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+    "guid": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/"
+  },
+  {
+    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+    "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+    "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+    "guid": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+    "guid": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+  },
+  {
+    "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+    "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+    "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+    "guid": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/"
+  },
+  {
+    "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+    "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+    "guid": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/"
+  },
+  {
+    "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+    "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+    "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+    "guid": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/"
+  },
+  {
+    "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+    "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "summary": "Broadcom admits it put “too big a focus on VCF.”",
+    "guid": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/"
+  },
+  {
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+    "guid": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
+  },
+  {
+    "title": "Pentagon rescinds new testosterone screening policy without explanation",
+    "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+    "summary": "The Pentagon says the guidance is being updated after being online for one day.",
+    "guid": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/"
+  },
+  {
+    "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
+    "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
+    "summary": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
+    "guid": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/"
+  },
+  {
+    "title": "Second complete map of a fruit fly brain completed",
+    "link": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+    "summary": "Every neuron and connection in the brain of a fly has been mapped—twice.",
+    "guid": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/"
+  },
+  {
+    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+    "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+    "guid": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
+  },
+  {
+    "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
+    "link": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
+    "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
+    "guid": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/"
+  },
+  {
+    "title": "Trump White House just tossed a grenade into international space relations",
+    "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+    "summary": "\"Let me be clear: America is not only welcome—we want you there.\"",
+    "guid": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/"
+  },
+  {
+    "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+    "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+    "summary": "Two of Europe's leading launch startups announced new fundraising this week.",
+    "guid": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/"
+  },
+  {
+    "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+    "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+    "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+    "guid": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/"
+  },
+  {
+    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+    "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+    "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
+    "guid": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/"
+  },
+  {
+    "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+    "link": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+    "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
+    "guid": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/"
+  },
+  {
+    "title": "Human archive: They were only human",
+    "link": "https://sayyss.github.io/human-archive/",
+    "summary": "Article URL: https://sayyss.github.io/human-archive/ Comments URL: https://news.ycombinator.com/item?id=49590455 Points: 5 # Comments: 1",
+    "guid": "https://news.ycombinator.com/item?id=49590455"
+  },
+  {
+    "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
+    "link": "https://news.ycombinator.com/item?id=49589730",
+    "summary": "I can't seem to find pictures or significant details (nothing on Wikipedia) about the coastal buildings purportedly used to contain shipwreck rescue rocket apparatus. Many of the buildings still exist and are Grade II listed.",
+    "guid": "https://news.ycombinator.com/item?id=49589730"
   }
 ]
