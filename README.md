@@ -32,17 +32,12 @@ güncel bir sürümde olduğunuzdan emin olun.
 
 ---
 
-## Adım 2 — Paketi açın ve git repo'sunu başlatın
+## Adım 2 — Projeyi edinin
 
-    unzip rss-ozet-starter.zip
+    git clone https://github.com/mndemirel-byte/rss-ozet.git
     cd rss-ozet
-    git init
-    git add -A
-    git commit -m "iskele: Part 3 starter"
 
-İlk commit formalite değildir: birazdan bir ajan bu dizinde dosya
-yazmaya başlayacak. "İskele hâli"nin temiz bir commit olarak durması,
-her an dönebileceğiniz bir zemin demektir.
+Repo git geçmişiyle gelir; ek bir başlatma adımı gerekmez.
 
 ---
 
@@ -216,6 +211,10 @@ arasındaki mesafe, döngüye verilen işin ta kendisidir.
 CLAUDE.md bunun LLM çağrısıyla değiştirilmesini açıkça yasaklar; gerçek
 LLM özetleme serinin Part 4'ünün konusudur. `PROGRESS.md` boş şablonla
 gelir; yazıdaki dolu hâli, Adım 7 sonrası örnek geçmişi gösterir.
+
+Kendi döngünüzü çalıştırmadan tamamlanmış hâli görmek isterseniz:
+`git show reference-solution:src/feeds.ts` — bu dal, spoiler
+içerdiğinden `master`'a hiç karışmaz.
 
 ---
 
